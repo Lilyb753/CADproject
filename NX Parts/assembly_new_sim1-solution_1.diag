@@ -1,0 +1,67 @@
+
+*** 10:12:02 *** 
+Starting Nastran Exporter
+
+*** 10:12:02 *** 
+Writing file \\prism.nas.gatech.edu\jrevis3\vlab\desktop\4041 Lab\Final 
+Project\NX Parts\assembly_new_sim1-solution_1.dat
+ 
+*** 10:12:02 *** 
+Writing NX NASTRAN 8.5 compatible deck
+
+*** 10:12:02 *** 
+Writing Nastran System section
+
+*** 10:12:02 *** 
+Writing File Management section
+
+*** 10:12:02 *** 
+Writing Executive Control section
+
+*** 10:12:02 *** 
+Writing Case Control section
+
+*** 10:12:02 *** 
+Writing Bulk Data section
+
+*** 10:12:02 *** 
+Writing Nodes
+
+*** 10:12:03 *** 
+Writing Elements
+
+*** 10:12:04 *** 
+Writing Physical Properties
+
+*** 10:12:04 *** 
+Writing Materials
+
+*** 10:12:04 *** 
+Writing Degree-of-Freedom Sets
+
+*** 10:12:04 *** 
+Writing Loads and Constraints
+
+*** 10:12:04 *** 
+Writing Coordinate Systems
+
+*** 10:12:04 *** 
+Summary of Bulk Data cards written
+
++----------+----------+
+|   NAME   |  NUMBER  |
++----------+----------+
+| CTETRA   | 3179     |
+| FORCE    | 111      |
+| GRID     | 794      |
+| MAT1     | 1        |
+| MATT1    | 1        |
+| PARAM    | 5        |
+| PSOLID   | 1        |
+| SPC      | 48       |
+| TABLEM1  | 3        |
++----------+----------+
+
+*** 10:12:04 *** 
+Nastran Deck Successfully Written
+
